@@ -10,7 +10,7 @@
 
 =>  Usage Instructions-
 
-	1. Since I was having hardware constraints, I used google colab. Please upload the file of respective method to 'home' of your    google drive
+	1. Since I was having hardware constraints, I used google colab. Please upload the file of respective method to 'home' of your google drive
 	2. To add more languages and/or increase data for any language-
 		1. In nn_method make changes in config.py then run data_prep.py. Then run the notebook
 		2. In embedding_method. Just make changes in config.py and then run the notebook 
