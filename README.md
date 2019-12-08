@@ -14,4 +14,4 @@
 	2. To add more languages and/or increase data for any language-
 		1. In nn_method make changes in config.py then run data_prep.py. Then run the notebook
 		2. In embedding_method. Just make changes in config.py and then run the notebook 
-	  3. In each of the method add the text in "test.txt" file to find out its language
+	3. In each of the method add the text in "test.txt" file to find out its language
